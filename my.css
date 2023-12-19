@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+#product-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+}
+
+.input-container{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input-inner{
+    width: 500px;
+}
